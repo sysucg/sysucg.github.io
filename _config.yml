@@ -17,9 +17,9 @@ copyright:
 # google-analytics:
 #   id:               ""
 
-# # Disqus
-# disqus:
-#   id:               "kiko-plus"
+# Disqus
+disqus:
+  id:               "hellokenlee"
 
 # URL
 url:                "https://sysucg.github.io" # the base hostname & protocol for your site
